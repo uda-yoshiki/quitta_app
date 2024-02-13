@@ -1,2 +1,3 @@
-# quitta_app
-Qitta application created with flutter
+# qiita_app
+
+A new Flutter project.
